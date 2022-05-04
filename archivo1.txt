@@ -1,2 +1,3 @@
 hola como estas sabia que vendrías por acá yo estoy bien contento 
 Bueno ahora vamos a modificar este archivo para que Fabricio lo lea y sepa que esta haciendo las cosas bien !! Saludosssss 
+Ahora estamos trabajando en el mismo archivo y haciendo cambios, vamos a ver que problema tenemos ahora. Listo
